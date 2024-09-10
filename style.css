@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(71, 24, 24);
+}
+img{
+    width: 1520px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    img {
+            width: 500px;
+    }
+  }
